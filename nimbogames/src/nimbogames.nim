@@ -1,4 +1,4 @@
-import sdl2
+import sdl2/sdl
 
 type
 	SDLException = object of Exception
